@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+seaborn
+matplotlib
+haversine
+scipy
+kagglehub
+kaggle
+streamlit>=1.23
+altair>=5
